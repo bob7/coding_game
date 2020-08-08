@@ -1,0 +1,50 @@
+body, html, #body{
+    width: 100%;
+    height: 100%;
+}
+.table {
+  display: table;   /* Allow the centering to work */
+  text-align:center;
+  width:90%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+
+  }
+
+/*th:nth-child(1) {width:4%;}
+th:nth-child(2) {width:4%;}
+th:nth-child(3) {width:4%;}
+th:nth-child(4) {width:4%;}
+th:nth-child(5) {width:4%;}
+th:nth-child(6) {width:9%;}
+th:nth-child(7) {width:30%;}
+*/
+#partitionSVG{
+  width: 100%;
+  height: 100%;
+  font:14px monospace;
+  padding-bottom:50px;
+}
+
+#div1{
+	height:2%;
+}
+#sequencetxt{
+	display:block;
+	font-size:x-small
+}
+#NUM{
+	font-family:sans-serif;
+	font-size: 13px;
+    color: #868686;
+    font-weight: 550;	
+	margin:auto;	
+}
+.proptext{
+	font-family:sans-serif;
+	font-size: 13px;
+    color: #404040;
+    font-weight: 600;	
+}
+
